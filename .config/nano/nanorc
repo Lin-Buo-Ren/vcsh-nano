@@ -1,0 +1,8 @@
+# Refer nanorc(5) manual page for more info about editing this file
+set afterends
+set linenumbers
+set mouse
+set smarthome
+set softwrap
+set tabsize "4"
+set tabstospaces
